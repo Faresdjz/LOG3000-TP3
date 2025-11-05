@@ -27,9 +27,9 @@ def subtract(a,b):
         b (float): Deuxième opérande
     
     Returns:
-        float: La différence de b et a
+        float: La différence de a et b (a - b)
     """
-    return b - a
+    return a - b
 
 def multiply(a,b):
     """
