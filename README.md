@@ -265,9 +265,9 @@ Pour plus de détails, consultez les fichiers `README.md` dans les répertoires 
 
 ## 🧪 Tests
 
-### Structure des tests (à venir)
+### Structure des tests
 
-Les tests seront organisés dans un répertoire `tests/` avec la structure suivante :
+Les tests sont organisés dans un répertoire `tests/` avec la structure suivante :
 ```
 tests/
 ├── __init__.py
@@ -278,7 +278,7 @@ tests/
 
 ### Exécuter les tests
 
-Une fois les tests implémentés, utilisez `pytest` pour les exécuter :
+Utilisez `pytest` pour exécuter les tests :
 
 ```bash
 # Installer pytest (si ce n'est pas déjà fait)
