@@ -53,6 +53,6 @@ def divide(a,b):
         b (float): Deuxième opérande (diviseur)
     
     Returns:
-        float: Le quotient de a divisé par b (division entière)
+        float: Le quotient de a divisé par b
     """
-    return a // b
+    return a / b
