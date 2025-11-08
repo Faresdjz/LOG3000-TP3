@@ -14,7 +14,6 @@ Une application web de calculatrice simple et moderne développée avec Flask, p
 - [Tests](#tests)
 - [Contribution](#contribution)
 - [Équipe](#équipe)
-- [Licence](#licence)
 
 ## 🎯 À propos
 
@@ -366,11 +365,6 @@ Lors de la création d'une PR, inclure :
    - Ce qui a été modifié et pourquoi
    - Comment tester les changements
    - Screenshots (si changement d'interface)
-3. **Checklist** :
-   - [ ] Code testé localement
-   - [ ] Documentation mise à jour
-   - [ ] Pas de nouveaux warnings
-   - [ ] Tests passent
 
 ### Signaler un problème (Issue)
 
@@ -405,15 +399,6 @@ Pour signaler un bug ou proposer une fonctionnalité :
   ```python
   app.run(debug=True, port=5001)  # Changer 5001 par le port désiré
   ```
-
-## 📚 Ressources supplémentaires
-
-- [Documentation Flask](https://flask.palletsprojects.com/)
-- [Documentation Jinja2](https://jinja.palletsprojects.com/)
-- [PEP 8 - Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)
-- [Guide de contribution GitHub](https://github.com/docs/contributing)
-
-
 
 ---
 
